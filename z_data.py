@@ -28,11 +28,7 @@ ex_data={
             "over_due_type":0,
             "legal_status":0
         }
-    ],
-    "name":"黄潮炎",
-    "idCard":"440524197307166614",
-    "createDate":"1491818982193",
-    "flag_view":"1"
+    ]
 }
 
 ex_data2=[
